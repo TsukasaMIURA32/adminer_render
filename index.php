@@ -1,2 +1,2 @@
 <?php
-require 'adminer.php';
+require 'adminer-5.3.0.php';
